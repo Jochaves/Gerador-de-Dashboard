@@ -1,6 +1,5 @@
-## 👨‍💻Quem sou eu Descrição do Projeto  
-Este projeto tem como objetivo gerar um conjunto de gráficos, de acordo com as informações inseridas pelo usuário.
-
+## 👨‍💻 Descrição do Projeto  
+Projeto de um aplicativo web de análise financeira pessoal usando apenas Python com base de dados no computador do usuário.
 
 ## Tecnologias Utilizadas
 
