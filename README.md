@@ -1,14 +1,18 @@
-👨‍💻Descrição do Projeto:
+## 👨‍💻Quem sou eu Descrição do Projeto  
 Este projeto tem como objetivo gerar um conjunto de gráficos, de acordo com as informações inseridas pelo usuário.
 
-👨‍💻Tecnologias Utilizadas
-usando apenas PYTHON e as bibliotecas:
-Traço;
-Componentes do Dash Dash Bootstrap;
-Sqlite3;
-Sqlalchemy;
+
+## Tecnologias Utilizadas
+
+Utilizando bibliotecas Python:
+- Traço
+- Componentes do Dash-Core
+- traço HTML
+- Dash Bootstrap
+- Tradicionalmente
+- Pandas
 
 
-Status do projeto
+## Status do projeto
 Projeto em andamento
 
