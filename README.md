@@ -1,5 +1,5 @@
 👨‍💻Descrição do Projeto:
-Este projeto tem como objetivo gerar um conjunto de gráficos, separado das informações do usuário.
+Este projeto tem como objetivo gerar um conjunto de gráficos, de acordo com as informações do usuário.
 
 
 👨‍💻Tecnologias Utilizadas
